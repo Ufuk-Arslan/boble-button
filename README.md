@@ -12,4 +12,4 @@ If you wish to run this application  on your device which is already built by us
 If you want to build this game in your own Unity editor, you should:
 - Clone this repository to your device.
 - Have `Unity 2021.2.13f1` installed on your device.
-- Build the game for any platform from your Unity editor.
+- Build the game for the platform of your choice from your Unity editor.
