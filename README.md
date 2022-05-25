@@ -1,5 +1,5 @@
 # Button Boble
-A hypercasual Unity 2D project created for Cmpe 496 HCI Spring 2022. For more information, please check out the PDF report created for this project from the repository.
+A hypercasual Unity 2D project created for Cmpe 496 HCI Spring 2022. For more information, please check out the [PDF report](https://github.com/Ufuk-Arslan/button-boble/blob/master/CMPE496%20Final%20Project.pdf) created for this project from the repository.
 
 ## Running the Game
 If you wish to run this application  on your device which is already built by us, you should:
