@@ -3,7 +3,7 @@ A hypercasual Unity 2D project created for Cmpe 496 HCI Spring 2022. For more in
 
 ## Running the Game
 If you wish to run this application  on your device which is already built by us, you should:
-- Download the `.apk` file in this repository.
+- Download the [.apk file](https://github.com/Ufuk-Arslan/button-boble/blob/master/496FinalProject.apk) in this repository.
 - Send this file to an android device or an emulator with versions higher than Android 4.0.
 - Install the `.apk` file to that device.
 - If asked, please select "Yes" for the question "Do you trust the developers of this file?".
